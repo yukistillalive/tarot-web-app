@@ -1,0 +1,26 @@
+{
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "latest",
+        "vite": "latest"
+    },
+    "dependencies": {
+        "@heroui/react": "^3.0.4",
+        "@heroui/styles": "^3.0.4",
+        "@tailwindcss/vite": "^4.3.0",
+        "firebase": "latest",
+        "gsap": "^3.15.0",
+        "mobx": "latest",
+        "mobx-react-lite": "latest",
+        "motion": "^12.38.0",
+        "ogl": "^1.0.11",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-router-dom": "latest"
+    }
+}
